@@ -1,6 +1,6 @@
-streamlit
-scikit-learn
-joblib
-pandas
-nltk
-swifter
+pandas==2.2.2
+nltk==3.9.1
+swifter==1.4.0
+streamlit==1.49.1
+joblib==1.5.2
+scikit-learn==1.6.1
